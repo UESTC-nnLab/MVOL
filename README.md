@@ -8,7 +8,7 @@ intrinsic in-distribution attributes in outliers. We provide theoretical insight
 detection. Extensive experiments demonstrate the superiority of our framework to others. MVOL effectively handles
 both auxiliary OOD datasets and even wild datasets with indistribution data as noise.
 
-This project is for the paper: [Mining In-distribution Attributes in Outliers for Out-of-distribution Detection](https://arxiv.org/abs/2412.11466) published at AAAI 2025. Some parts of the codebase are adapted from [Outlier Exposure](https://github.com/hendrycks/outlier-exposure), and [NTOM](https://github.com/jfc43 informative-outlier-mining).
+This project is for the paper: [Mining In-distribution Attributes in Outliers for Out-of-distribution Detection](https://arxiv.org/abs/2412.11466) published at AAAI 2025. Some parts of the codebase are adapted from [Outlier Exposure](https://github.com/hendrycks/outlier-exposure), and [NTOM](https://github.com/jfc43/informative-outlier-mining).
 
 ## Required Packages
 
